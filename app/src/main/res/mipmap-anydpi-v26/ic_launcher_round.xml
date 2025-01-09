@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/airplane" />
+    <foreground android:drawable="@drawable/airplane" />
+    <monochrome android:drawable="@drawable/airplane" />
+</adaptive-icon>
